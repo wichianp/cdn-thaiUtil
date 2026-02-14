@@ -1,9 +1,9 @@
 
 <h3>🚀 link</h3>
-https://wichianp.github.io/cdn-thaiUtil/01/ThaiUtil.js
+https://wichianp.github.io/cdn-thaiUtil/01/ThaiUtils.js
 
 <h3>⭐ CDN thaiUtil</h3>
-<script src="https://cdn.jsdelivr.net/gh/wichianp/cdn-thaiUtil/01/ThaiUtil.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wichianp/cdn-thaiUtil/01/ThaiUtils.js"></script>
 
 <h3>✅ ตัวอย่างใช้งาน (Google Apps Script / Web)</h3>
 
