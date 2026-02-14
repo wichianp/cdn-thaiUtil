@@ -1,3 +1,4 @@
+
 <h3>🚀 link</h3>
 https://wichianp.github.io/cdn-thaiUtil/thaiUtil.js
 
@@ -40,3 +41,6 @@ console.log(moneyText);
 ๑,๒๕๐.๐๐
 
 หนึ่งพันสองร้อยห้าสิบบาทถ้วน
+
+<h3>🚀 Ref.</h3>
+https://guruchian.blogspot.com/2026/02/thutilityjs.html
